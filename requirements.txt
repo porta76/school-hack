@@ -1,0 +1,16 @@
+requests
+scapy
+wget
+argparse
+colorama
+humanfriendly
+phonenumbers
+packaging
+psutil
+tqdm
+urllib3
+beautifulsoup4
+selenium
+webdriver-manager
+cssutils 
+flask
